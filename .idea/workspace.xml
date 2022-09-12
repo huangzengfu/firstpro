@@ -60,7 +60,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.ani">
     <configuration name="ani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -244,10 +244,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1661222307372" />
-    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1662997976471">
+    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1662998116457">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1662997976471" />
+    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1662998116457" />
     <state x="93" y="93" width="1350" height="630" key="DiffContextDialog" timestamp="1662997996388">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -288,14 +288,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1493" height="246" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1661078657614" />
-    <state x="262" y="0" key="SettingsEditor" timestamp="1662987849554">
+    <state x="262" y="0" key="SettingsEditor" timestamp="1662998062374">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="262" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1662987849554" />
-    <state x="361" y="130" key="Vcs.Push.Dialog.v2" timestamp="1662997941592">
+    <state x="262" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1662998062374" />
+    <state x="361" y="130" key="Vcs.Push.Dialog.v2" timestamp="1662998004846">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="130" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1662997941592" />
+    <state x="361" y="130" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1662998004846" />
     <state x="552" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662996667232">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
