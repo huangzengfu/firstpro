@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1adac395-5b1d-4d2b-a977-642f93ab7626" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/YYC.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/YYC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +158,7 @@
       <workItem from="1662633111040" duration="625000" />
       <workItem from="1662685060593" duration="700000" />
       <workItem from="1662976073558" duration="10800000" />
-      <workItem from="1662995839385" duration="2049000" />
+      <workItem from="1662995839385" duration="2927000" />
     </task>
     <task id="LOCAL-00001" summary="20220912commit提交测试">
       <created>1662976479018</created>
@@ -215,7 +216,28 @@
       <option name="project" value="LOCAL" />
       <updated>1662997805630</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="20220912commit文件修改后提交测试">
+      <created>1662997939218</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662997939218</updated>
+    </task>
+    <task id="LOCAL-00010" summary="20220912commit文件修改后提交测试">
+      <created>1662998002537</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662998002537</updated>
+    </task>
+    <task id="LOCAL-00011" summary="20220912commit文件修改后提交测试">
+      <created>1662998124932</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662998124932</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,10 +266,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1661222307372" />
-    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1662998116457">
+    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1662998124368">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1662998116457" />
+    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1662998124368" />
     <state x="93" y="93" width="1350" height="630" key="DiffContextDialog" timestamp="1662997996388">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -292,10 +314,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="262" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1662998062374" />
-    <state x="361" y="130" key="Vcs.Push.Dialog.v2" timestamp="1662998004846">
+    <state x="361" y="130" key="Vcs.Push.Dialog.v2" timestamp="1662998127996">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="361" y="130" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1662998004846" />
+    <state x="361" y="130" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1662998127996" />
     <state x="552" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1662996667232">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
