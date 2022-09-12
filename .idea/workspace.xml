@@ -157,7 +157,7 @@
       <workItem from="1662633111040" duration="625000" />
       <workItem from="1662685060593" duration="700000" />
       <workItem from="1662976073558" duration="10800000" />
-      <workItem from="1662995839385" duration="1765000" />
+      <workItem from="1662995839385" duration="2049000" />
     </task>
     <task id="LOCAL-00001" summary="20220912commit提交测试">
       <created>1662976479018</created>
@@ -208,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662996908618</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="20220912commit文件修改后提交测试">
+      <created>1662997805630</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662997805630</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,10 +244,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1661222307372" />
-    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1662996908026">
+    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1662997926059">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1662996908026" />
+    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1662997926059" />
     <state x="93" y="93" width="1350" height="630" key="DiffContextDialog" timestamp="1662996830152">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
