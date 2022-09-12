@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class ani {
 
     public static void main(String[] args) {
-
+        System.out.println("test!");
     }
 
 
